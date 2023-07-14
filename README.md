@@ -1,4 +1,6 @@
 # Product-Landing-Page
-IDE used: Visual Studio Code Editor
+**IDE used:** Visual Studio Code Editor
 
-Languages used: HTML & CSS
+**Languages used:** HTML & CSS
+
+**Domain:** Web Development
